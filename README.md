@@ -1,2 +1,2 @@
 # luce
-lume but for ComputerCraft
+[lume](https://github.com/NQMVD/lume) but for ComputerCraft
